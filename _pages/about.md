@@ -1,17 +1,14 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Your Gateway to Intelligent Machines!
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+`ML Tute` is a cutting-edge programming platform that unlocks the power of machine learning and artificial intelligence. Whether you're a beginner or an experienced developer, this site is your destination for diving into the exciting world of machine learning programming.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Discover the art of crafting intelligent algorithms and shaping the future with data-driven solutions. Our platform offers a rich array of resources, tools, and tutorials designed to empower you to build, train, and deploy advanced machine learning models.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Unleash your creativity as you explore a vast library of pre-trained models, experiment with diverse datasets, and collaborate with a vibrant community of like-minded enthusiasts. Dive into our interactive coding playground, where you can experiment, iterate, and fine-tune your models in real-time.
+
+Embark on your journey to become a proficient machine learning programmer today. Join the ML Tute community and unlock the possibilities of machine learning for a smarter and more connected world. The future is yours to code!

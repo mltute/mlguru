@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: Python
+permalink: /python/
 description: A growing collection of your cool projects.
-nav: false
-nav_order: 2
-display_categories: [work, fun]
+nav: true
+nav_order: 3
+display_categories: [python]
 horizontal: false
 ---
 
@@ -15,7 +15,7 @@ horizontal: false
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
+  {%- assign categorized_projects = site.python | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
